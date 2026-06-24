@@ -136,7 +136,7 @@ const copy = {
   en: {
     nav: ['Home', 'Services', 'Works', 'Dashboard', 'Pricing', 'Contact'],
     pill: 'ecko company profile — technology, marketing, and innovation',
-    heroTitle: 'Your partner for digital transformation and smart growth.',
+    heroTitle: 'Your partner for digital transformation and ',
     heroText:
       'ecko is a Saudi digital solutions company that combines strategy, creative design, software development, digital marketing, automation, and AI to help brands launch, operate, and scale with confidence.',
     primary: 'Request a consultation',
