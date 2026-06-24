@@ -161,7 +161,7 @@ const copy = {
     location: 'Saudi Arabia • GCC • Remote worldwide',
   },
   ar: {
-    nav: ['الرئيسية', 'الخدمات', 'أعمالنا', 'لوحة التحكم', 'الباقات', 'تواصل'],
+    nav: ['الرئيسية', 'الخدمات', 'الباقات', 'تواصل'],
     pill: 'بروفايل ecko — تقنية وتسويق وابتكار',
     heroTitle: 'شريكك للتحول الرقمي ',
     heroText:
@@ -600,7 +600,7 @@ function App() {
   const rtl = lang === 'ar'
 
   const themeClass = `${theme === 'dark' ? 'dark' : ''} ${rtl ? 'font-arabic' : 'font-english'}`
-  const navTargets = ['home', 'services', 'works', 'admin', 'pricing', 'contact']
+  const navTargets = ['home', 'services', 'pricing', 'contact']
 
   const year = useMemo(() => new Date().getFullYear(), [])
   const workDraft = workDrafts.ar
