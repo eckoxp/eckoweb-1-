@@ -134,7 +134,7 @@ const translateArabicToEnglish = async (text: string) => {
 
 const copy = {
   en: {
-    nav: ['Home', 'Services', 'Works', 'Dashboard', 'Pricing', 'Contact'],
+    nav: ['home', 'services', 'pricing', 'contact'],
     pill: 'ecko company profile — technology, marketing, and innovation',
     heroTitle: 'Your partner for digital transformation and ',
     heroText:
