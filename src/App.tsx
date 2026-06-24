@@ -54,7 +54,7 @@ type Inquiry = ContactFormState & {
 }
 
 const logo = '/uploads/upload_1.png'
-const heroBackgroundVideo = '/videos/hero-background'
+const heroBackgroundVideo = '/public/hero-background'
 const dashboardStorageKey = 'ecko-dashboard-content-v2-reset'
 const adminSessionKey = 'ecko-dashboard-auth-v2'
 const dashboardSubdomain = 'dashboard.qecko-digital-solutions-3wtm.arcada.app'
