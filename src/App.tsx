@@ -1605,7 +1605,7 @@ function App() {
           <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 sm:flex-row">
             <img src={logo} alt="ecko" className="h-8 w-auto shrink-0 sm:h-9 dark:brightness-0 dark:invert" />
             <p className="text-center text-sm font-semibold leading-7 text-slate-500 dark:text-slate-400 sm:text-right" dir="rtl">
-              © 2026 ecko. هوية، مواقع، برمجيات، تسويق، أتمتة، وحلول ذكاء اصطناعي.
+              © 2026 ecko. جميع الحقوق محفوظة
             </p>
           </div>
         </footer>
