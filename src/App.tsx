@@ -138,7 +138,7 @@ const copy = {
     pill: 'ecko company profile — technology, marketing, and innovation',
     heroTitle: 'Your partner for digital transformation and ',
     heroText:
-      'ecko is a Saudi digital solutions company that combines strategy, creative design, software development, digital marketing, automation, and AI to help brands launch, operate, and scale with confidence.',
+      'Software development, digital marketing, automation, and artificial intelligence to help brands launch, operate, and scale with confidence.',
     primary: 'Request a consultation',
     secondary: 'Explore our profile',
     stats: [
@@ -163,8 +163,7 @@ const copy = {
   ar: {
     nav: ['الرئيسية', 'الخدمات', 'الباقات', 'تواصل'],
     pill: 'بروفايل ecko — تقنية وتسويق وابتكار',
-    heroTitle: 'شريكك للتحول الرقمي ',
-    heroText:
+heroTitle: 'شريكك\nللتحول الرقمي',    heroText:
       'تطوير البرمجيات، والتسويق الرقمي، والأتمتة، والذكاء الاصطناعي لمساعدة العلامات التجارية على الإطلاق والتشغيل والتوسع بثقة',
     primary: 'اطلب استشارة',
     secondary: 'استعرض البروفايل',
